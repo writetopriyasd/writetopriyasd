@@ -13,7 +13,7 @@ My focus is on understanding business problems and building dashboards that get 
 
 When I'm not working with data, I enjoy hiking, travelling and pursuing my artistic passions while grooving to music. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+<!-- 🌐 Replace "your-username" with your actual GitHub username 
 ### [🏆 Check Out My Full Portfolio Website](https://writetopriyasd.github.io/)
       
 ## 🔭 What I'm Currently Working On 
@@ -21,6 +21,7 @@ When I'm not working with data, I enjoy hiking, travelling and pursuing my artis
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+-->
 
 ## 🌱 Currently Learning 
 
