@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Business Data Analyst passionate about helping businesses make sense of their business data. I enjoy eliciting business requirements and transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Business Data Analyst applying a product thinking approach into data analysis use cases. I excel in eliciting business/user requirements and transforming complex, messy datasets into actionable insights and ROI generators.
 
 My focus is on understanding business problems and building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
