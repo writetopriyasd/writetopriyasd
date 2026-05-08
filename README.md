@@ -7,11 +7,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Business Data Analyst applying a product thinking approach into data analysis use cases. I excel in eliciting business/user requirements and transforming complex, messy datasets to create valuable, ROI generators.
+I am a Product Owner/Manager cum Sr. Business Data Analyst with 7+ years in product ownership and business analysis — and 15+ years in software across Healthcare, FinTech, Insurance, and Language Services. I sit at the intersection of business strategy, data insights, and technology delivery. I don't just elicit business requirements, design prototypes, and write user stories; I tactically prioritize and define why something gets built, what business outcome it drives, and how the cross-functional teams deliver the end product. I excel in eliciting business/user requirements and transforming complex, messy datasets to create valuable, ROI generators.
 
-My focus is on understanding business problems and building dashboards that directly impact business by providing meaningful, actionable insights and creating data models that help businesses envision better plans for the future.
+I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on. I work across Sales, Marketing, UI/UX Design, Engineering, QA/QC/DevOps/UAT, and Analytics/Data Science teams without losing sight of the overall business impact. I facilitate the building of data pipelines and dashboards using SQL, Python, and Power BI to accelerate decision-making.
 
-When I'm not working with data, I enjoy hiking, travelling and pursuing my artistic passions while grooving to music. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with product and data, I enjoy hiking, travelling, and pursuing my artistic passions while grooving to music. I love the "aha!" moment when the world reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username 
 ### [🏆 Check Out My Full Portfolio Website](https://writetopriyasd.github.io/)
@@ -25,10 +25,9 @@ When I'm not working with data, I enjoy hiking, travelling and pursuing my artis
 
 ## 🌱 Currently Learning 
 
-- Python
-- SQL
-- Tableau
-- Power BI
+- Agentic AI
+- MCPs
+- RAG
 
 ## 🛠️ Technical Skillset
 
