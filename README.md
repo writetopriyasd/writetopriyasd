@@ -33,14 +33,7 @@ FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates ho
 Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
  
 
-## 🌱 Currently Learning 
-
-- Agentic AI
-- MCPs
-- RAG
-
-
-#### 🛠️ AI Product And Technical Skillset
+## 🌱 🛠️ AI Product And Technical Skillset
 
 AI Product: Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
 AI Tools: n8n • Claude • GitHub Copilot • Lovable • Docker • Ollama • MCP • VS Code • Netlify • Rovo 
@@ -51,7 +44,7 @@ Healthcare: RCM • RPM • RPA • Credentialing/Payer Provider Workflows • P
 Cloud/Data: Azure • AWS • GCP • Python • Postman
 
 
-##### Data Analysis & Visualization
+#### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
