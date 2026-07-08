@@ -56,3 +56,21 @@ When I'm not working with product and data, I enjoy hiking, travelling, and purs
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
+
+##### AI Product Case Studies
+<p>
+**Serenity**
+AI wellness companion for geriatric care. Device-agnostic healthcare AI agent that monitors daily routines, offers medication reminders, wellness check-ins, conversational support, and emergency caregiver notifications.
+</p>
+
+<p>
+**Wealth Compass**
+AI-enabled investment insights dashboard
+FinPulse AI — live portfolio insights, KPI dashboards, market analytics, and decision-support visualizations for SIP-guided investing.
+</p>
+
+<p>
+**AI Job Agent**
+Docker + n8n workflow that finds, matches, and drafts
+Multi-portal job scraping, Gemini resume matching, Perplexity enrichment, and Gmail notifications — 80% less manual effort across the candidate workflow.
+</p>
