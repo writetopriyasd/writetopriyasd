@@ -35,7 +35,7 @@ Serenity is a **companion** web app designed to help older adults stay independe
 
 ## 🌱 🛠️ AI Product And Technical Skillset
 
-AI Product: Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
+** AI Product: ** Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
 AI Tools: n8n • Claude • GitHub Copilot • Lovable • Docker • Ollama • MCP • VS Code • Netlify • Rovo 
 Analytics: SQL • Python • Power BI • Tableau • Excel (Power Query, VBA, Pivot tables) 
 Product: Jira • Confluence • REST APIs • Agile (Scrum/Kanban) • Product Discovery • Figma • BPMN/UML • Draw.io • Visio
