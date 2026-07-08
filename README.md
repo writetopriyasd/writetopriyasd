@@ -32,7 +32,7 @@ FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates ho
 
 
 
-### 🌱 Currently Learning 
+## 🌱 Currently Learning 
 
 - Agentic AI
 - MCPs
