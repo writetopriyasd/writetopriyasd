@@ -38,11 +38,18 @@ Serenity is a **companion** web app designed to help older adults stay independe
 - Agentic AI
 - MCPs
 - RAG
-- LLM
 
-#### 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+#### 🛠️ AI Product And Technical Skillset
+
+AI Product: Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
+AI Tools: n8n • Claude • GitHub Copilot • Lovable • Docker • Ollama • MCP • VS Code • Netlify • Rovo 
+Analytics: SQL • Python • Power BI • Tableau • Excel (Power Query, VBA, Pivot tables) 
+Product: Jira • Confluence • REST APIs • Agile (Scrum/Kanban) • Product Discovery • Figma • BPMN/UML • Draw.io • Visio
+EMRs/EHRs: Epic • AdvancedMD • Cerner • athenahealth • eClinicalWorks
+Healthcare: RCM • RPM • RPA • Credentialing/Payer Provider Workflows • PHI/PII • HIPAA • GDPR •  EDI
+Cloud/Data: Azure • AWS • GCP • Python • Postman
+
 
 ##### Data Analysis & Visualization
 <p>
