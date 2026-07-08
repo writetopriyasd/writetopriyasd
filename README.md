@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me 
-I am a Product Manager and Business/Data Analyst/Lead, with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I sit at the intersection of product management, business strategy, data insights, and technology delivery. As Product Manager, I plan the go-to-market strategy, build business models, facilitate the business outcome, own and prioritize the product backlog end-to-end, from discovery through delivery, designing user workflows, and aligning business outcomes with OKRs and KPIs.I don't just elicit business requirements, design prototypes, and write user stories; I tactically prioritize and define why something gets built, what business outcome it drives, and how the cross-functional teams deliver the end product. I excel in eliciting business/user requirements and transforming complex, messy datasets to create valuable, ROI generators.
+I am a Product Manager and Business/Data Analyst/Lead, with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I sit at the intersection of product management, business strategy, data insights, and technology delivery. As Product Manager, I plan the go-to-market strategy, build business models, facilitate the business outcome, own and prioritize the product backlog end-to-end, from discovery through delivery, design user workflows, and align business outcomes with OKRs and KPIs.I don't just elicit business requirements, design prototypes, and write user stories; I tactically prioritize and define why something gets built, what business outcome it drives, and how the cross-functional teams deliver the end product. I excel in eliciting business/user requirements and transforming complex, messy datasets to create valuable ROI generators.
 
 I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on. I work across Sales, Marketing, UI/UX Design, Engineering, QA/QC/DevOps/UAT, and Analytics/Data Science teams without losing sight of the overall business impact. I facilitate the building of data pipelines and dashboards using SQL, Python, and Power BI to accelerate decision-making.
 
@@ -32,9 +32,8 @@ FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates ho
 
 
 <p> 
-2. [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf01a39-29a6-4e69-8050-630e6198792a" /> Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. 
-
-It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
+2. [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf01a39-29a6-4e69-8050-630e6198792a" /> 
+Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 </p> 
 
 ## 🌱 Currently Learning 
