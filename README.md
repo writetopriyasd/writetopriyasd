@@ -28,8 +28,6 @@ When I'm not working with product and data, I enjoy hiking, travelling, and purs
 
 FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. It focuses on making complex market data and goal tracking feel intuitive, especially for users in different net-worth tiers. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
 
-> Note: All market and portfolio data in this prototype is simulated and for demonstration only. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
-
  
 [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf01a39-29a6-4e69-8050-630e6198792a" />
 
@@ -38,14 +36,7 @@ Serenity is a **companion** web app designed to help older adults stay independe
 It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 
 
-## 🌱 Currently Learning 
-
-- Agentic AI
-- MCPs
-- RAG
-- LLM
-
-#### 🛠️ Technical Skillset
+#### 🛠️ AI Product Management Skillset
 
 **AI Product**: Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
 
