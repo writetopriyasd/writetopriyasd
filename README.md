@@ -25,14 +25,14 @@ When I'm not working with product and data, I enjoy hiking, travelling, and purs
 
 ## 🚀 AI Product Case Studies
 <p>
-1. [FinPulse AI – Real-time markets, smarter SIPs](https://bit.ly/4ybnYNe) <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f4e2774a-c1ae-4327-ab29-030b4c1fd0a[...]>
-
-FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. It foc[...]
+1. [FinPulse AI – Real-time markets, smarter SIPs](https://bit.ly/4ybnYNe) <img width="30" height="30" alt="image"> 
+  
+FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. 
 </p>
 
 
 <p> 
-2. [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf0[...]
+2. [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App">
 
 It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 </p> 
