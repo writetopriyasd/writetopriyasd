@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me 
-I am a Product Manager and Business/Data Analyst/Lead, with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I sit at the interse[...]
+I am a Product Manager and Business/Data Analyst/Lead with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I sit at the interse[...]
 
 I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on. I work across Sales, Marketing, UI[...]
 
