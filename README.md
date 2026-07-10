@@ -36,7 +36,7 @@ Serenity is a **companion** web app designed to help older adults stay independe
 It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 
 
-#### 🛠️ AI Product Management Skillset
+#### 🛠️ AI Product Management Skillsets
 
 **AI Product**: Generative AI • AI Agents • Agentic Workflows • Prompt Engineering • Context Engineering • LLM Evaluation • RAG • Human-in-the-Loop Systems • Predictive Models • AI Product Strategy
 
