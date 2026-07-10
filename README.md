@@ -30,14 +30,12 @@ FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates ho
 
 > Note: All market and portfolio data in this prototype is simulated and for demonstration only. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
 
-***
+[Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf01a39-29a6-4e69-8050-630e6198792a" />
 
-
-<p> 
-2. [Serenity – A Gentle Home Assistant for Older Adults] 
+Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. 
 
 It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
-</p> 
+
 
 ## 🌱 Currently Learning 
 
