@@ -7,11 +7,11 @@
 </p>
 
 ## 🚀 About Me 
-I am a Product Manager and Business/Data Analyst/Lead with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I sit at the interse[...]
+I am a Product Manager and Business/Data Analyst/Lead with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services.
 
-I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on. I work across Sales, Marketing, UI[...]
+I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on.
 
-When I'm not working with product and data, I enjoy hiking, travelling, and pursuing my artistic passions while grooving to music. I love the "aha!" moment when the world reveals something new and use[...]
+When I'm not working with product and data, I enjoy hiking, travelling, and pursuing my artistic passions while grooving to music. I love the "aha!" moment when the world reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username 
 ### [🏆 Check Out My Full Portfolio Website](https://writetopriyasd.github.io/)
@@ -19,20 +19,22 @@ When I'm not working with product and data, I enjoy hiking, travelling, and purs
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project B:** [Brief, one-line description of another project, e.g., creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 -->
 
 ## 🚀 AI Product Case Studies
 <p>
-1. [FinPulse AI – Real-time markets, smarter SIPs](https://bit.ly/4ybnYNe) <img width="30" height="30" alt="image"> 
-  
-FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. 
+[FinPulse AI – Real-time markets, smarter SIPs](https://bit.ly/4ybnYNe) <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f4e2774a-c1ae-4327-ab29-030b4c1fd0a5" />
+
+FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. It focuses on making complex market data and goal tracking feel intuitive, especially for users in different net-worth tiers. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
+
+> Note: All market and portfolio data in this prototype is simulated and for demonstration only. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/) 
 </p>
 
 
 <p> 
-2. [Serenity – A Gentle Home Assistant for Older Adults](https://bit.ly/4gW4AgQ)   <img width="30" height="30" alt="Qq78bIrshP4gbJy_Serenity App">
+2. [Serenity – A Gentle Home Assistant for Older Adults] 
 
 It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 </p> 
