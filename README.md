@@ -24,13 +24,13 @@ When I'm not working with product and data, I enjoy hiking, travelling, and purs
 -->
 
 ## 🚀 AI Product Case Studies
-<p>
 [FinPulse AI – Real-time markets, smarter SIPs](https://bit.ly/4ybnYNe) <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f4e2774a-c1ae-4327-ab29-030b4c1fd0a5" />
 
 FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates how Indian investors could monitor SIPs, mutual funds, and debt products in one real-time, narrative-led interface. It focuses on making complex market data and goal tracking feel intuitive, especially for users in different net-worth tiers. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
 
-> Note: All market and portfolio data in this prototype is simulated and for demonstration only. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/) 
-</p>
+> Note: All market and portfolio data in this prototype is simulated and for demonstration only. [aiwealthcompass.lovable](https://aiwealthcompass.lovable.app/)
+
+***
 
 
 <p> 
