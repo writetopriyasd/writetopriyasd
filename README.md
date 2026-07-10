@@ -33,6 +33,10 @@ FinPulse AI is an educational, AI-assisted portfolio dashboard that simulates ho
 
 Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. It focuses on a calm, senior-friendly experience with medication reminders, daily routines, mood check-ins, and lightweight caregiver alerts. 
 
+AI Job Agent 
+Multi-portal job scraping, Gemini resume matching, Perplexity enrichment, and Gmail notifications — 80% less manual effort across the candidate workflow. It focuses on an end-to-end automated candidate workflow with review gates and an 80% reduction in manual triage effort.
+<img width="1435" height="491" alt="image" src="https://github.com/user-attachments/assets/50d5cecc-3e7c-43b3-9ecf-418fd95f9ab2" />
+
 
 #### 🛠️ AI Product Management Skillsets
 
