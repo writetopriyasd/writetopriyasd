@@ -7,9 +7,15 @@
 </p>
 
 ## 🚀 About Me 
-I am a Product Manager and Business/Data Analyst/Lead with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services.
+I am a Product Manager and Business/Data Analyst/Lead with 7+ years in product management and business/data analysis across Healthcare, FinTech, Insurance, and Language Services. I help B2B SaaS enterprise companies turn complex AI/ML capabilities into products people actually use.
 
-I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on.
+With 7+ years in product ownership and business analysis in software across Healthcare, FinTech, Insurance, and Language Services — I sit at the intersection of business strategy, data insights, and technology delivery. I don't just elicit business requirements, design prototypes, and write user stories; I tactically prioritize and define why something gets built, what business outcome it drives, and how the cross-functional teams deliver the end product. 
+
+As Product Manager, I plan go-to-market strategies, build business models, drive business outcomes, own and prioritize the product backlog from discovery through delivery, design user workflows, and align business outcomes with OKRs and KPIs. I have worked on initiatives to translate AI/GenAI capabilities (LLMs, RAG, predictive models, anomaly detection) into features the business stakeholders can act on. I lead Agile ceremonies (sprint planning, story grooming, backlog refinement, release planning), ensuring that increments meet acceptance criteria and deliver measurable value. I work across Sales, Marketing, UI/UX Design, Engineering, QA/QC/DevOps/UAT, and Analytics/Data Science teams without losing sight of the overall business impact. I facilitate the building of data pipelines and dashboards using SQL, Python, and Power BI to accelerate decision-making.  
+
+**Domains/Industries I've delivered in:** Healthcare interoperability standards (HIPAA/GDPR/EDI), Language Services (Translation/Interpretation), FinTech/Banking, Insurance.
+
+**Tech I use daily:** VS Code, AI Models, Lovable/Figma for Product Development/Prototyping  · SQL, Python, Power BI for Analysis and Data Visualizations · JIRA/Confluence for Agile delivery.
 
 When I'm not working with product and data, I enjoy hiking, travelling, and pursuing my artistic passions while grooving to music. I love the "aha!" moment when the world reveals something new and useful.
 
